@@ -1,0 +1,4 @@
+Họ tên: bích, tuổi: 18, điểm: 9.0
+Họ tên: ngọc, tuổi: 8, điểm: 9.0
+Họ tên: bích, tuổi: 15, điểm: 6.0
+Họ tên: nguyễn, tuổi: 16, điểm: 7.0
