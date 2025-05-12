@@ -1,0 +1,5 @@
+Masv: 1, Ho ten: Nguyen Van A, diem tb: 4.5
+Masv: 2, Ho ten: Nguyen Van B, diem tb: 7.0
+Masv: 3, Ho ten: Nguyen Thi C, diem tb: 9.0
+Masv: 4, Ho ten: Nguyen Hoang D, diem tb: 5.0
+Masv: 5, Ho ten: Nguyen Van R, diem tb: 0.0

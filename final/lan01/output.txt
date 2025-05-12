@@ -1,0 +1,4 @@
+Ma TB: 2, Ten: Tu lanh, Gia: 129000, So luong: 20, Nam SX: 2021
+Ma TB: 4, Ten: May lanh, Gia: 145000, So luong: 10, Nam SX: 2011
+Ma TB: 5, Ten: May hut bui, Gia: 120000, So luong: 12, Nam SX: 2021
+Ma TB: 7, Ten: TV, Gia: 127000, So luong: 14, Nam SX: 2012

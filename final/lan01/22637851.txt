@@ -1,0 +1,6 @@
+001,Nguyen Van A,4.5
+002,Nguyen Van B,7
+003,Nguyen Thi C,9
+004,Nguyen Hoang D,5
+005,Nguyen Van R,0
+006,Nguyen Bich, 10
